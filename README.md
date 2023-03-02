@@ -10,5 +10,5 @@
 Курсовой проект:  https://docs.google.com/document/d/1LH31pHWb2ZPlnTXhvUf4Ntr6aB2eSH68Zq-hiJq4Gbw/edit?usp=share_link
 # Функциональные схемы
 # Таск-менеджер
-https://trello.com/invite/b/w5znDFND/ATTIf5445e83562dfb1223e8e0dd05c595b33267E86F/ptproject
+https://trello.com/b/DqHkc5y3/ptproject
 # Функциональные схема работы приложения
