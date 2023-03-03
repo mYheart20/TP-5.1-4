@@ -11,4 +11,5 @@
 # Функциональные схемы
 # Таск-менеджер
 https://trello.com/b/DqHkc5y3/ptproject
-# Функциональные схема работы приложения
+# Функциональная схема работы приложения
+https://miro.com/app/board/uXjVPijVsZ8=/?share_link_id=974686068909
